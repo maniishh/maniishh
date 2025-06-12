@@ -1,7 +1,12 @@
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="0" height="0">
+<!-- Cool Hero Background -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/64508435/140599213-d154f1cc-3703-4008-b5e7-8c4c0a9d7dfb.png" width="100%" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=700&height=70&lines=Hi%2C+I'm+Manish+Kumar+Yadav+👋;Full+Stack+Developer+%F0%9F%92%95+%F0%9F%9A%80+%7C+Competitive+Programmer+%F0%9F%A4%96" alt="Typing SVG" />
 </p>
+
+<img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.svg" width="100%" alt="animated banner"/>
+
+<!-- Your intro or other content below -->
+
 
 
 
