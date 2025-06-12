@@ -17,11 +17,12 @@
 
 
 ---
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5" width="500">
+  <br><br>
 
 ### 👨‍💻 About Me
 
-- 💻 Full Stack Developer — Passionate about building web applications with JavaScript, React, Node.js  
-- 🎨 UI/UX Designer — Creating user-friendly designs in **Figma** & **Adobe XD**  
+- 💻 Full Stack Developer — Passionate about building web applications with JavaScript, React, Node.js    
 - 🧠 Competitive Programmer — Solving problems in **C++** and **Python**  
 - 🌱 Currently learning **MERN Stack**, **DSA**, and exploring **Open Source**
 
@@ -30,7 +31,6 @@
 ### 🛠️ Tech Stack
 
 #### 🚀 Languages
-![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
