@@ -1,6 +1,6 @@
 <!-- Cool Hero Background -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=700&height=70&lines=Hi%2C+I'm+Manish+Kumar+Yadav+👋;Full+Stack+Developer+%F0%9F%92%95+%F0%9F%9A%80+%7C+Competitive+Programmer+%F0%9F%A4%96" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=700&height=70&lines=Hi%2C+I'm+Manish+Kumar+Yadav+👋;  Full+Stack+Developer+%F0%9F%92%95+%F0%9F%9A%80+%7C+Competitive+Programmer+%F0%9F%A4%96" alt="Typing SVG" />
 </p>
 
  
