@@ -3,7 +3,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=700&height=70&lines=Hi%2C+I'm+Manish+Kumar+Yadav+👋;Full+Stack+Developer+%F0%9F%92%95+%F0%9F%9A%80+%7C+Competitive+Programmer+%F0%9F%A4%96" alt="Typing SVG" />
 </p>
 
-<img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.svg" width="100%" alt="animated banner"/>
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/80728820-e06b-4f96-9c9e-9df46f0cc0a5" width="600">
+<br><br>
 
 <!-- Your intro or other content below -->
 
