@@ -4,7 +4,7 @@
 </p>
 
 <!-- Wave Background Banner -->
-<img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.svg" width="100%" alt="banner" />
+ 
 
  
 
