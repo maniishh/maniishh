@@ -57,10 +57,10 @@ Tackling challenges with **C++** and **Python**, solving tricky problems & sharp
 
 ## 📫 Connect with Me
 
-[![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yourmail@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:my675890@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manish-yadav-7b8b5a1b0)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/91xxxxxxxxxx)
 
 ---
 
-> 🔥 _Always crafting cool things, one line of code at a time!_ 🚀🧠🔥
+> 🔥 _Always trying to learn something new_ 🚀🧠🔥
