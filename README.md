@@ -84,7 +84,9 @@
 
 ### 🏆 GitHub Trophies
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=maniishh&theme=darkhub&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+ 
+ [![Trophy](https://github-profile-trophy.vercel.app/?username=manishyadav&theme=darkhub&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 ---
 
