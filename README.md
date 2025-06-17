@@ -73,18 +73,18 @@
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manishyadav&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manishyadav&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maniishh&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maniishh&layout=compact&theme=radical)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=manishyadav&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=maniishh&theme=radical)](https://git.io/streak-stats)
 
-[![Manish's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=manishyadav&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Manish's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=maniishh&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
 ### 🏆 GitHub Trophies
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=manishyadav&theme=darkhub&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophy](https://github-profile-trophy.vercel.app/?username=maniishh&theme=darkhub&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
