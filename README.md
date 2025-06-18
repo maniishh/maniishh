@@ -98,5 +98,5 @@
 
 ---
 
-> _always trying to learn something new!!_ 🧠💥🚀
+> _always trying to learn something new!_ 🧠💥🚀
 
