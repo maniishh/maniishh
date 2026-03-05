@@ -34,9 +34,9 @@
 
 ---
 
-# 🔥 LeetCode Activity
+## 🔥 LeetCode Activity
 
-![LeetCode Heatmap](https://leetcode-stats-six.vercel.app/?username=__ZERO)
+![LeetCode Activity Graph](https://leetcode-stats.vercel.app/api?username=__ZERO&theme=dark)
 
 ---
 
