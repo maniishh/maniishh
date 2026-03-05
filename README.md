@@ -26,15 +26,11 @@
 
 ---
 
-# 🧠 LeetCode Stats
+![LeetCode](https://img.shields.io/badge/LeetCode-__ZERO-orange?style=for-the-badge&logo=leetcode)
 
 <p align="center">
-<img src="https://leetcard.jacoblin.cool/__ZERO?theme=dark&font=baloo&ext=contest"/>
+<img src="https://leetcard.jacoblin.cool/__ZERO?theme=dark&font=baloo&ext=heatmap"/>
 </p>
-
-## 🔥 LeetCode Activity
-
-![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=__ZERO&theme=dark)
 
 ---
 
