@@ -92,10 +92,14 @@
 
 ---
 
+# 🧊 3D Contribution Graph
+
+![](./profile-3d-contrib/profile-night-green.svg)
+
 # 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=maniishh&theme=radical&margin-w=10"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=maniishh&theme=radical&no-frame=true&row=1&column=7" />
 </p>
 
 ---
