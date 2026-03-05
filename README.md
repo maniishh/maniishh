@@ -32,11 +32,9 @@
 <img src="https://leetcard.jacoblin.cool/__ZERO?theme=dark&font=baloo&ext=contest"/>
 </p>
 
----
-
 ## 🔥 LeetCode Activity
 
-![LeetCode Activity Graph](https://leetcode-stats.vercel.app/api?username=__ZERO&theme=dark)
+![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=__ZERO&theme=dark)
 
 ---
 
