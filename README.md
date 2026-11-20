@@ -1,7 +1,7 @@
 <!-- Typing Animation -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Manish+👋;Full+Stack+Developer+🚀;Competitive+Programmer+💻;Always+Learning+New+Things+⚡" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Manish+👋;Competitive+Programmer+💻;Always+Learning+New+Things+⚡" />
 </p>
 
 <p align="center">
@@ -14,7 +14,6 @@
 # 👨‍💻 About Me
 
 * 🎓 B.Tech Student
-* 💻 Full Stack Developer (**MERN Stack**)
 * 🧠 Competitive Programmer
 * ⚡ Solving Data Structures & Algorithms in **C++**
 * 🌱 Currently learning **System Design & Open Source**
